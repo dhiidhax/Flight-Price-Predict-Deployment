@@ -1,10 +1,10 @@
 # Flight-Price-Predict-Deployment-Heroku
 
-In this data science machine learning project tutorial, we are going to build an end to end machine learning project and then deploy it via Heroku.
+In this data science machine learning project t, we are going to build an end to end machine learning project and then deploy it via Heroku.
 
-**UPDATE:** Heroku is upgrading the platform and you may not be able to see this project at the moment. If you are not able to see it right away, kindly come back to check for update.
-
-
+**The motivation of the project comes from the current economic hardship making it
+difficult for people of India to keep pace with the financial crisis. Helping the
+individuals to save on their flight ticket booking was at the heart of this project**.
 STEPS:
 
 1. Choose your use-case
