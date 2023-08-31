@@ -11,4 +11,4 @@ STEPS:
 2. Get your dataset prepared and build your model and choose the best model
 3. Create a web App using Flask
 4. Deployment-Heroku
-https://github.com/dhiidhax/Flight-Price-Predict-Deployment/issues/1#issue-1874800616
+![predict flght price](https://github.com/dhiidhax/Flight-Price-Predict-Deployment/assets/100511952/ec2fa378-b137-41a9-a610-6d88d083004d)
