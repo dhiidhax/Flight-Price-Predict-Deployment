@@ -10,4 +10,4 @@ STEPS:
 1. Choose your use-case
 2. Get your dataset prepared and build your model and choose the best model
 3. Create a web App using Flask
-
+4. Deployment-Heroku
